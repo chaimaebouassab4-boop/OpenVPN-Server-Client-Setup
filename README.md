@@ -20,8 +20,7 @@ la génération de certificats SSL/TLS, et l'établissement d'une connexion VPN 
 ✔️ Configuration NAT/Masquerading pour routage inter-réseaux
 ✔️ Tests de connectivité et validation du tunnel
 
-## 📄 Documentation complète
-[📥 Télécharger le rapport PDF](docs/openvpn_tp_Bouassab.pdf)
+
 
 ## 🚀 Étapes clés du projet
 1. **Initialisation PKI** : Génération de l'autorité de certification (CA)
